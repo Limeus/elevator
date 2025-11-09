@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b43f67bfc17cd10",
+        "id": "2d676a462145b1bd",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc918d64c2f33ed",
+            "id": "94834377a94a62f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,22 @@
               },
               "icon": "lucide-file",
               "title": "wrwrw"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbbf1a3991ce5e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78227ab5594de66",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -180,12 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cc918d64c2f33ed",
+  "active": "c78227ab5594de66",
   "lastOpenFiles": [
-    "Добро поaжаловать.md",
     "wrwrw.md",
     "wfwfwf/wsfwfwf.md",
-    "создайте ссылку.md",
+    "Добро поaжаловать.md",
     "wfwfwf"
   ]
 }
